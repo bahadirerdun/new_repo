@@ -1,1 +1,2 @@
 Merhaba ilk Push için test
+Orjinal Berdun/new_repo dan gelen
